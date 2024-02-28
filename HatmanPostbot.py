@@ -20,7 +20,7 @@ print("#######################")
 
 # Funzione per inviare un messaggio nel canale
 def send_message(client, message):
-    client.send_message("@HatmanStockandGive", message)
+    client.send_message("1002076625446", message)
 
 
 # Funzione per contare i post di un utente
